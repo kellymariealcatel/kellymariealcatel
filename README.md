@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kellymariealcatel/kellymariealcatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm WarriormaidUK 👋
+
+I am a creative builder documenting my learning journey across technical and practical projects. 
+
+---
+
+## 🛠️ Current Projects & Log
+
+| Project | Description | Tech / Tools | Status |
+| :--- | :--- | :--- | :--- |
+| **Dashboard Project Tracker** | Windowed Project tracker to learn and track skills and projects | Python, Tkinter, etc | 🟡 Active | 
+| **Boot.dev** | Gamified backend development learning platform | Python, Git, Asteriods, etc | 🟡 Active |
+| **IoT builds** | Electronics and coding | ESP32, Arduino, soldering, (lots of soldering)  |⏸️ Paused |
+
+---
+
+## 🎯 Current Focus & Learning Goals
+
+- 🔭 Currently working on: **Dashboard**
+- 🌱 Learning: **Topic/Skill: GUI Development with Python**
+- 📝 Documenting progress and notes directly within project repositories.
+
+---
+
+## 📌 Project Status Legend
+* 🟢 **Completed** – Finished and functional.
+* 🟡 **Active** – Currently receiving regular updates.
+* ⏸️ **Paused** – On hold temporarily; ready to resume later.
