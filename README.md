@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm WarriormaidUK 👋
+# Hi, I'm kellymariealcatel/WarriormaidUK 👋
 
 I am a creative builder documenting my learning journey across technical and practical projects. 
 
